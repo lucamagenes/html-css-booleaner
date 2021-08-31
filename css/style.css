@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+}
+
+#info_header{
+    height: 150px;
+    width: 100%;
+    background-color: #4ea0ff;
+    background-image: url("../img/pattern.png");
+}
+
+.pattern{
+    padding-top: 90px;
+    padding-left: 10px;
+}
+
+.logo{
+    width: 200px;
+}
