@@ -22,8 +22,13 @@ main{
     padding-left: 5px;
 }
 
+#main_title{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
 h1{
-    margin-bottom: 0;
+    margin: 0;
 }
 
 #autore{
@@ -36,6 +41,10 @@ h1{
 
 }
 
-.data{
+.teto_secondario{
     font-size: 0.75rem;
+}
+
+p{
+    display: inline;
 }
