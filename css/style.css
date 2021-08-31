@@ -48,3 +48,17 @@ h1{
 p{
     display: inline;
 }
+
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+
+thead{
+    background-color: rgb(51, 181, 233);
+    color: white;
+}
+
+#tr_dispari{
+    background-color: skyblue;
+}
